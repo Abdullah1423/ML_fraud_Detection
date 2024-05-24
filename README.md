@@ -27,7 +27,7 @@
     <img src="Logo.jpg" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">ML</h3>
+<h3 align="center">ONLINE PAYMENTS FRAUD DETECTION</h3>
 
   <p align="center">
      This project implements a machine learning model to identify and flag potential fraudulent operations.<br />
@@ -59,7 +59,6 @@
     </li>
     <li><a href="#Usage">Usage</a></li>
     <li><a href="#Dataset">Dataset</a></li>
-    <li><a href="#Model Details">Model Details</a></li>
     <li><a href="#Model Details">Model Details</a></li>
   </ol>
 </details>
@@ -94,7 +93,7 @@ First of all, you need to download python, jupter And Any code editorSo that you
 <!-- Essential Libraries -->
 ### Essential Libraries
 
-To get started you need to install Python Jupyter and run the following command To download all libraries at once 
+Using the terminal run the following command To download all libraries at once 
 * pip
   ```sh
   pip install numpy pandas matplotlib seaborn torch torchvision xgboost scikit-learn joblib
